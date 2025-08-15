@@ -1,4 +1,4 @@
-#AirPure Innovations: A Data-Driven Market Fit Analysis
+# AirPure Innovations: A Data-Driven Market Fit Analysis
 
 📊 Project Overview
 This repository contains a comprehensive market fit analysis for AirPure Innovations, a startup entering India's $507.5M air purifier market. The project develops a data-driven, go-to-market strategy by analysing real-time AQI patterns, public health data, consumer search trends, and the competitive landscape to identify critical business opportunities.
