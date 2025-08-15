@@ -1,0 +1,877 @@
+index,state,area,Area_ID,Population
+0,Maharashtra,Amravati,1,63463000
+0,Maharashtra,Amravati,1,62979000
+0,Maharashtra,Amravati,1,63256000
+1,Bihar,Purnia,2,16415000
+1,Bihar,Purnia,2,16221000
+1,Bihar,Purnia,2,16332000
+2,Madhya Pradesh,Katni,3,26126000
+2,Madhya Pradesh,Katni,3,25894000
+2,Madhya Pradesh,Katni,3,26027000
+3,Chhattisgarh,Tumidih,4,8682000
+3,Chhattisgarh,Tumidih,4,8568000
+3,Chhattisgarh,Tumidih,4,8633000
+4,Assam,Byrnihat,5,5807000
+4,Assam,Byrnihat,5,5750000
+4,Assam,Byrnihat,5,5783000
+5,Manipur,Imphal,6,1093000
+5,Manipur,Imphal,6,1082000
+5,Manipur,Imphal,6,1088000
+6,Kerala,Kollam,7,29122000
+6,Kerala,Kollam,7,28642000
+6,Kerala,Kollam,7,28916000
+7,West Bengal,Barrackpore,8,37995000
+7,West Bengal,Barrackpore,8,37642000
+7,West Bengal,Barrackpore,8,37844000
+8,Odisha,Nayagarh,9,9077000
+8,Odisha,Nayagarh,9,8994000
+8,Odisha,Nayagarh,9,9042000
+9,Assam,Nalbari,10,5807000
+9,Assam,Nalbari,10,5750000
+9,Assam,Nalbari,10,5783000
+10,Karnataka,Hubballi,11,31402000
+10,Karnataka,Hubballi,11,31096000
+10,Karnataka,Hubballi,11,31271000
+11,Gujarat,Ahmedabad,12,36863000
+11,Gujarat,Ahmedabad,12,36403000
+11,Gujarat,Ahmedabad,12,36666000
+12,Uttarakhand,Dehradun,13,4431000
+12,Uttarakhand,Dehradun,13,4373000
+12,Uttarakhand,Dehradun,13,4406000
+13,Tamil Nadu,Vellore,14,42472000
+13,Tamil Nadu,Vellore,14,42196000
+13,Tamil Nadu,Vellore,14,42354000
+14,Maharashtra,Ulhasnagar,15,63463000
+14,Maharashtra,Ulhasnagar,15,62979000
+14,Maharashtra,Ulhasnagar,15,63256000
+15,Tamil Nadu,Chengalpattu,16,42472000
+15,Tamil Nadu,Chengalpattu,16,42196000
+15,Tamil Nadu,Chengalpattu,16,42354000
+16,Andhra Pradesh,Tirupati,17,20407000
+16,Andhra Pradesh,Tirupati,17,20174000
+16,Andhra Pradesh,Tirupati,17,20307000
+17,Tamil Nadu,Dindigul,18,42472000
+17,Tamil Nadu,Dindigul,18,42196000
+17,Tamil Nadu,Dindigul,18,42354000
+18,Andhra Pradesh,Kadapa,19,20407000
+18,Andhra Pradesh,Kadapa,19,20174000
+18,Andhra Pradesh,Kadapa,19,20307000
+19,Maharashtra,Thane,20,63463000
+19,Maharashtra,Thane,20,62979000
+19,Maharashtra,Thane,20,63256000
+20,Uttarakhand,Rishikesh,21,4431000
+20,Uttarakhand,Rishikesh,21,4373000
+20,Uttarakhand,Rishikesh,21,4406000
+21,Chhattisgarh,Raipur,22,8682000
+21,Chhattisgarh,Raipur,22,8568000
+21,Chhattisgarh,Raipur,22,8633000
+22,Tamil Nadu,Ranipet,23,42472000
+22,Tamil Nadu,Ranipet,23,42196000
+22,Tamil Nadu,Ranipet,23,42354000
+23,Bihar,Samastipur,24,16415000
+23,Bihar,Samastipur,24,16221000
+23,Bihar,Samastipur,24,16332000
+24,Madhya Pradesh,Jabalpur,25,26126000
+24,Madhya Pradesh,Jabalpur,25,25894000
+24,Madhya Pradesh,Jabalpur,25,26027000
+25,Bihar,Kishanganj,26,16415000
+25,Bihar,Kishanganj,26,16221000
+25,Bihar,Kishanganj,26,16332000
+26,Bihar,Saharsa,27,16415000
+26,Bihar,Saharsa,27,16221000
+26,Bihar,Saharsa,27,16332000
+27,Karnataka,Yadgir,28,31402000
+27,Karnataka,Yadgir,28,31096000
+27,Karnataka,Yadgir,28,31271000
+28,Rajasthan,Dungarpur,29,22468000
+28,Rajasthan,Dungarpur,29,22262000
+28,Rajasthan,Dungarpur,29,22380000
+29,Uttar Pradesh,Meerut,30,59007000
+29,Uttar Pradesh,Meerut,30,58465000
+29,Uttar Pradesh,Meerut,30,58775000
+30,Rajasthan,Sawai Madhopur,31,22468000
+30,Rajasthan,Sawai Madhopur,31,22262000
+30,Rajasthan,Sawai Madhopur,31,22380000
+31,Uttar Pradesh,Ghaziabad,32,59007000
+31,Uttar Pradesh,Ghaziabad,32,58465000
+31,Uttar Pradesh,Ghaziabad,32,58775000
+32,Madhya Pradesh,Pithampur,33,26126000
+32,Madhya Pradesh,Pithampur,33,25894000
+32,Madhya Pradesh,Pithampur,33,26027000
+33,Uttar Pradesh,Kanpur,34,59007000
+33,Uttar Pradesh,Kanpur,34,58465000
+33,Uttar Pradesh,Kanpur,34,58775000
+34,Tamil Nadu,Chennai,35,42472000
+34,Tamil Nadu,Chennai,35,42196000
+34,Tamil Nadu,Chennai,35,42354000
+35,Rajasthan,Nagaur,36,22468000
+35,Rajasthan,Nagaur,36,22262000
+35,Rajasthan,Nagaur,36,22380000
+36,Andhra Pradesh,Chittoor,37,20407000
+36,Andhra Pradesh,Chittoor,37,20174000
+36,Andhra Pradesh,Chittoor,37,20307000
+37,Maharashtra,Kalyan,38,63463000
+37,Maharashtra,Kalyan,38,62979000
+37,Maharashtra,Kalyan,38,63256000
+38,Maharashtra,Mira Bhayandar,39,63463000
+38,Maharashtra,Mira Bhayandar,39,62979000
+38,Maharashtra,Mira Bhayandar,39,63256000
+39,Odisha,Bhubaneswar,40,9077000
+39,Odisha,Bhubaneswar,40,8994000
+39,Odisha,Bhubaneswar,40,9042000
+40,Rajasthan,Churu,41,22468000
+40,Rajasthan,Churu,41,22262000
+40,Rajasthan,Churu,41,22380000
+41,Rajasthan,Jodhpur,42,22468000
+41,Rajasthan,Jodhpur,42,22262000
+41,Rajasthan,Jodhpur,42,22380000
+42,Bihar,Katihar,43,16415000
+42,Bihar,Katihar,43,16221000
+42,Bihar,Katihar,43,16332000
+43,Rajasthan,Pali,44,22468000
+43,Rajasthan,Pali,44,22262000
+43,Rajasthan,Pali,44,22380000
+44,Odisha,Balasore,45,9077000
+44,Odisha,Balasore,45,8994000
+44,Odisha,Balasore,45,9042000
+45,Rajasthan,Sikar,46,22468000
+45,Rajasthan,Sikar,46,22262000
+45,Rajasthan,Sikar,46,22380000
+46,Punjab,Jalandhar,47,13359000
+46,Punjab,Jalandhar,47,13243000
+46,Punjab,Jalandhar,47,13309000
+47,Andhra Pradesh,Tirumala,48,20407000
+47,Andhra Pradesh,Tirumala,48,20174000
+47,Andhra Pradesh,Tirumala,48,20307000
+48,Odisha,Angul,49,9077000
+48,Odisha,Angul,49,8994000
+48,Odisha,Angul,49,9042000
+49,Punjab,Patiala,50,13359000
+49,Punjab,Patiala,50,13243000
+49,Punjab,Patiala,50,13309000
+50,Maharashtra,Pimpri Chinchwad,51,63463000
+50,Maharashtra,Pimpri Chinchwad,51,62979000
+50,Maharashtra,Pimpri Chinchwad,51,63256000
+51,Gujarat,Vatva,52,36863000
+51,Gujarat,Vatva,52,36403000
+51,Gujarat,Vatva,52,36666000
+52,Karnataka,Chamarajanagar,53,31402000
+52,Karnataka,Chamarajanagar,53,31096000
+52,Karnataka,Chamarajanagar,53,31271000
+53,Rajasthan,Jaisalmer,54,22468000
+53,Rajasthan,Jaisalmer,54,22262000
+53,Rajasthan,Jaisalmer,54,22380000
+54,Odisha,Keonjhar,55,9077000
+54,Odisha,Keonjhar,55,8994000
+54,Odisha,Keonjhar,55,9042000
+55,Rajasthan,Chittorgarh,56,22468000
+55,Rajasthan,Chittorgarh,56,22262000
+55,Rajasthan,Chittorgarh,56,22380000
+56,Karnataka,Chikkaballapur,57,31402000
+56,Karnataka,Chikkaballapur,57,31096000
+56,Karnataka,Chikkaballapur,57,31271000
+57,Rajasthan,Bhilwara,58,22468000
+57,Rajasthan,Bhilwara,58,22262000
+57,Rajasthan,Bhilwara,58,22380000
+58,Bihar,Arrah,59,16415000
+58,Bihar,Arrah,59,16221000
+58,Bihar,Arrah,59,16332000
+59,Uttar Pradesh,Agra,60,59007000
+59,Uttar Pradesh,Agra,60,58465000
+59,Uttar Pradesh,Agra,60,58775000
+60,Rajasthan,Kota,61,22468000
+60,Rajasthan,Kota,61,22262000
+60,Rajasthan,Kota,61,22380000
+61,Karnataka,Chikkamagaluru,62,31402000
+61,Karnataka,Chikkamagaluru,62,31096000
+61,Karnataka,Chikkamagaluru,62,31271000
+62,Rajasthan,Bharatpur,63,22468000
+62,Rajasthan,Bharatpur,63,22262000
+62,Rajasthan,Bharatpur,63,22380000
+63,Mizoram,Aizawl,64,705000
+63,Mizoram,Aizawl,64,700000
+63,Mizoram,Aizawl,64,703000
+64,Gujarat,Gandhi Nagar,65,36863000
+64,Gujarat,Gandhi Nagar,65,36403000
+64,Gujarat,Gandhi Nagar,65,36666000
+65,Rajasthan,Dausa,66,22468000
+65,Rajasthan,Dausa,66,22262000
+65,Rajasthan,Dausa,66,22380000
+66,Chhattisgarh,Kunjemura,67,8682000
+66,Chhattisgarh,Kunjemura,67,8568000
+66,Chhattisgarh,Kunjemura,67,8633000
+67,Bihar,Motihari,68,16415000
+67,Bihar,Motihari,68,16221000
+67,Bihar,Motihari,68,16332000
+68,Madhya Pradesh,Ujjain,69,26126000
+68,Madhya Pradesh,Ujjain,69,25894000
+68,Madhya Pradesh,Ujjain,69,26027000
+69,Tamil Nadu,Salem,70,42472000
+69,Tamil Nadu,Salem,70,42196000
+69,Tamil Nadu,Salem,70,42354000
+70,Andhra Pradesh,Vijayawada,71,20407000
+70,Andhra Pradesh,Vijayawada,71,20174000
+70,Andhra Pradesh,Vijayawada,71,20307000
+71,Tamil Nadu,Thoothukudi,72,42472000
+71,Tamil Nadu,Thoothukudi,72,42196000
+71,Tamil Nadu,Thoothukudi,72,42354000
+72,Karnataka,Davanagere,73,31402000
+72,Karnataka,Davanagere,73,31096000
+72,Karnataka,Davanagere,73,31271000
+73,Tamil Nadu,Coimbatore,74,42472000
+73,Tamil Nadu,Coimbatore,74,42196000
+73,Tamil Nadu,Coimbatore,74,42354000
+74,Rajasthan,Bhiwadi,75,22468000
+74,Rajasthan,Bhiwadi,75,22262000
+74,Rajasthan,Bhiwadi,75,22380000
+75,Uttar Pradesh,NOIDA,76,59007000
+75,Uttar Pradesh,NOIDA,76,58465000
+75,Uttar Pradesh,NOIDA,76,58775000
+76,Maharashtra,Parbhani,77,63463000
+76,Maharashtra,Parbhani,77,62979000
+76,Maharashtra,Parbhani,77,63256000
+77,Uttar Pradesh,Vrindavan,78,59007000
+77,Uttar Pradesh,Vrindavan,78,58465000
+77,Uttar Pradesh,Vrindavan,78,58775000
+78,Karnataka,Bagalkot,79,31402000
+78,Karnataka,Bagalkot,79,31096000
+78,Karnataka,Bagalkot,79,31271000
+79,Chandigarh,Chandigarh,80,1262000
+79,Chandigarh,Chandigarh,80,1255000
+79,Chandigarh,Chandigarh,80,1259000
+80,Tamil Nadu,Cuddalore,81,42472000
+80,Tamil Nadu,Cuddalore,81,42196000
+80,Tamil Nadu,Cuddalore,81,42354000
+81,Rajasthan,Barmer,82,22468000
+81,Rajasthan,Barmer,82,22262000
+81,Rajasthan,Barmer,82,22380000
+82,Rajasthan,Tonk,83,22468000
+82,Rajasthan,Tonk,83,22262000
+82,Rajasthan,Tonk,83,22380000
+83,Uttar Pradesh,Bareilly,84,59007000
+83,Uttar Pradesh,Bareilly,84,58465000
+83,Uttar Pradesh,Bareilly,84,58775000
+84,Rajasthan,Baran,85,22468000
+84,Rajasthan,Baran,85,22262000
+84,Rajasthan,Baran,85,22380000
+85,Chhattisgarh,Korba,86,8682000
+85,Chhattisgarh,Korba,86,8568000
+85,Chhattisgarh,Korba,86,8633000
+86,Rajasthan,Rajsamand,87,22468000
+86,Rajasthan,Rajsamand,87,22262000
+86,Rajasthan,Rajsamand,87,22380000
+87,Uttar Pradesh,Firozabad,88,59007000
+87,Uttar Pradesh,Firozabad,88,58465000
+87,Uttar Pradesh,Firozabad,88,58775000
+88,Bihar,Aurangabad,89,16415000
+88,Bihar,Aurangabad,89,16221000
+88,Bihar,Aurangabad,89,16332000
+89,Uttar Pradesh,Greater Noida,90,59007000
+89,Uttar Pradesh,Greater Noida,90,58465000
+89,Uttar Pradesh,Greater Noida,90,58775000
+90,Assam,Guwahati,91,5807000
+90,Assam,Guwahati,91,5750000
+90,Assam,Guwahati,91,5783000
+91,Rajasthan,Pratapgarh,92,22468000
+91,Rajasthan,Pratapgarh,92,22262000
+91,Rajasthan,Pratapgarh,92,22380000
+92,West Bengal,Kolkata,93,37995000
+92,West Bengal,Kolkata,93,37642000
+92,West Bengal,Kolkata,93,37844000
+93,Maharashtra,Jalna,94,63463000
+93,Maharashtra,Jalna,94,62979000
+93,Maharashtra,Jalna,94,63256000
+94,Maharashtra,Dhule,95,63463000
+94,Maharashtra,Dhule,95,62979000
+94,Maharashtra,Dhule,95,63256000
+95,Telangana,Hyderabad,96,19078000
+95,Telangana,Hyderabad,96,18984000
+95,Telangana,Hyderabad,96,18984000
+96,Puducherry,Puducherry,97,1229000
+96,Puducherry,Puducherry,97,1212000
+96,Puducherry,Puducherry,97,1222000
+97,Uttar Pradesh,Khurja,98,59007000
+97,Uttar Pradesh,Khurja,98,58465000
+97,Uttar Pradesh,Khurja,98,58775000
+98,Rajasthan,Bundi,99,22468000
+98,Rajasthan,Bundi,99,22262000
+98,Rajasthan,Bundi,99,22380000
+99,Karnataka,Bengaluru,100,31402000
+99,Karnataka,Bengaluru,100,31096000
+99,Karnataka,Bengaluru,100,31271000
+100,Maharashtra,Latur,101,63463000
+100,Maharashtra,Latur,101,62979000
+100,Maharashtra,Latur,101,63256000
+101,Maharashtra,Solapur,102,63463000
+101,Maharashtra,Solapur,102,62979000
+101,Maharashtra,Solapur,102,63256000
+102,West Bengal,Howrah,103,37995000
+102,West Bengal,Howrah,103,37642000
+102,West Bengal,Howrah,103,37844000
+103,Uttar Pradesh,Jhansi,104,59007000
+103,Uttar Pradesh,Jhansi,104,58465000
+103,Uttar Pradesh,Jhansi,104,58775000
+104,Bihar,Muzaffarpur,105,16415000
+104,Bihar,Muzaffarpur,105,16221000
+104,Bihar,Muzaffarpur,105,16332000
+105,West Bengal,Siliguri,106,37995000
+105,West Bengal,Siliguri,106,37642000
+105,West Bengal,Siliguri,106,37844000
+106,Madhya Pradesh,Ratlam,107,26126000
+106,Madhya Pradesh,Ratlam,107,25894000
+106,Madhya Pradesh,Ratlam,107,26027000
+107,Assam,Silchar,108,5807000
+107,Assam,Silchar,108,5750000
+107,Assam,Silchar,108,5783000
+108,Kerala,Thrissur,109,29122000
+108,Kerala,Thrissur,109,28642000
+108,Kerala,Thrissur,109,28916000
+109,Punjab,Ludhiana,110,13359000
+109,Punjab,Ludhiana,110,13243000
+109,Punjab,Ludhiana,110,13309000
+110,Bihar,Bettiah,111,16415000
+110,Bihar,Bettiah,111,16221000
+110,Bihar,Bettiah,111,16332000
+111,Tamil Nadu,Thanjavur,112,42472000
+111,Tamil Nadu,Thanjavur,112,42196000
+111,Tamil Nadu,Thanjavur,112,42354000
+112,Maharashtra,Nagpur,113,63463000
+112,Maharashtra,Nagpur,113,62979000
+112,Maharashtra,Nagpur,113,63256000
+113,Uttar Pradesh,Bulandshahr,114,59007000
+113,Uttar Pradesh,Bulandshahr,114,58465000
+113,Uttar Pradesh,Bulandshahr,114,58775000
+114,Meghalaya,Shillong,115,712000
+114,Meghalaya,Shillong,115,707000
+114,Meghalaya,Shillong,115,710000
+115,West Bengal,Haldia,116,37995000
+115,West Bengal,Haldia,116,37642000
+115,West Bengal,Haldia,116,37844000
+116,Odisha,Talcher,117,9077000
+116,Odisha,Talcher,117,8994000
+116,Odisha,Talcher,117,9042000
+117,Himachal Pradesh,Baddi,118,785000
+117,Himachal Pradesh,Baddi,118,781000
+117,Himachal Pradesh,Baddi,118,783000
+118,Maharashtra,Aurangabad,119,63463000
+118,Maharashtra,Aurangabad,119,62979000
+118,Maharashtra,Aurangabad,119,63256000
+119,Karnataka,Kalaburagi,120,31402000
+119,Karnataka,Kalaburagi,120,31096000
+119,Karnataka,Kalaburagi,120,31271000
+120,Bihar,Araria,121,16415000
+120,Bihar,Araria,121,16221000
+120,Bihar,Araria,121,16332000
+121,Maharashtra,Belapur,122,63463000
+121,Maharashtra,Belapur,122,62979000
+121,Maharashtra,Belapur,122,63256000
+122,Bihar,Manguraha,123,16415000
+122,Bihar,Manguraha,123,16221000
+122,Bihar,Manguraha,123,16332000
+123,Punjab,Bathinda,124,13359000
+123,Punjab,Bathinda,124,13243000
+123,Punjab,Bathinda,124,13309000
+124,Tamil Nadu,Ramanathapuram,125,42472000
+124,Tamil Nadu,Ramanathapuram,125,42196000
+124,Tamil Nadu,Ramanathapuram,125,42354000
+125,Tamil Nadu,Namakkal,126,42472000
+125,Tamil Nadu,Namakkal,126,42196000
+125,Tamil Nadu,Namakkal,126,42354000
+126,Karnataka,Madikeri,127,31402000
+126,Karnataka,Madikeri,127,31096000
+126,Karnataka,Madikeri,127,31271000
+127,Tamil Nadu,Tiruppur,128,42472000
+127,Tamil Nadu,Tiruppur,128,42196000
+127,Tamil Nadu,Tiruppur,128,42354000
+128,Maharashtra,Akola,129,63463000
+128,Maharashtra,Akola,129,62979000
+128,Maharashtra,Akola,129,63256000
+129,Rajasthan,Udaipur,130,22468000
+129,Rajasthan,Udaipur,130,22262000
+129,Rajasthan,Udaipur,130,22380000
+130,Uttar Pradesh,Hapur,131,59007000
+130,Uttar Pradesh,Hapur,131,58465000
+130,Uttar Pradesh,Hapur,131,58775000
+131,Karnataka,Dharwad,132,31402000
+131,Karnataka,Dharwad,132,31096000
+131,Karnataka,Dharwad,132,31271000
+132,Jharkhand,Dhanbad,133,10848000
+132,Jharkhand,Dhanbad,133,10730000
+132,Jharkhand,Dhanbad,133,10797000
+133,Andhra Pradesh,Rajamahendravaram,134,20407000
+133,Andhra Pradesh,Rajamahendravaram,134,20174000
+133,Andhra Pradesh,Rajamahendravaram,134,20307000
+134,Rajasthan,Jhunjhunu,135,22468000
+134,Rajasthan,Jhunjhunu,135,22262000
+134,Rajasthan,Jhunjhunu,135,22380000
+135,Uttar Pradesh,Baghpat,136,59007000
+135,Uttar Pradesh,Baghpat,136,58465000
+135,Uttar Pradesh,Baghpat,136,58775000
+136,Karnataka,Belgaum,137,31402000
+136,Karnataka,Belgaum,137,31096000
+136,Karnataka,Belgaum,137,31271000
+137,Gujarat,Surat,138,36863000
+137,Gujarat,Surat,138,36403000
+137,Gujarat,Surat,138,36666000
+138,Haryana,Gurugram,139,13582000
+138,Haryana,Gurugram,139,13384000
+138,Haryana,Gurugram,139,13497000
+139,Rajasthan,Sirohi,140,22468000
+139,Rajasthan,Sirohi,140,22262000
+139,Rajasthan,Sirohi,140,22380000
+140,West Bengal,Asansol,141,37995000
+140,West Bengal,Asansol,141,37642000
+140,West Bengal,Asansol,141,37844000
+141,Andhra Pradesh,Visakhapatnam,142,20407000
+141,Andhra Pradesh,Visakhapatnam,142,20174000
+141,Andhra Pradesh,Visakhapatnam,142,20307000
+142,Tamil Nadu,Nagapattinam,143,42472000
+142,Tamil Nadu,Nagapattinam,143,42196000
+142,Tamil Nadu,Nagapattinam,143,42354000
+143,Uttar Pradesh,Prayagraj,144,59007000
+143,Uttar Pradesh,Prayagraj,144,58465000
+143,Uttar Pradesh,Prayagraj,144,58775000
+144,Uttar Pradesh,Gorakhpur,145,59007000
+144,Uttar Pradesh,Gorakhpur,145,58465000
+144,Uttar Pradesh,Gorakhpur,145,58775000
+145,Maharashtra,Bhiwandi,146,63463000
+145,Maharashtra,Bhiwandi,146,62979000
+145,Maharashtra,Bhiwandi,146,63256000
+146,Odisha,Byasanagar,147,9077000
+146,Odisha,Byasanagar,147,8994000
+146,Odisha,Byasanagar,147,9042000
+147,Bihar,Begusarai,148,16415000
+147,Bihar,Begusarai,148,16221000
+147,Bihar,Begusarai,148,16332000
+148,Maharashtra,Mumbai,149,63463000
+148,Maharashtra,Mumbai,149,62979000
+148,Maharashtra,Mumbai,149,63256000
+149,Maharashtra,Boisar,150,63463000
+149,Maharashtra,Boisar,150,62979000
+149,Maharashtra,Boisar,150,63256000
+150,Tamil Nadu,Hosur,151,42472000
+150,Tamil Nadu,Hosur,151,42196000
+150,Tamil Nadu,Hosur,151,42354000
+151,Bihar,Siwan,152,16415000
+151,Bihar,Siwan,152,16221000
+151,Bihar,Siwan,152,16332000
+152,Andhra Pradesh,Anantapur,153,20407000
+152,Andhra Pradesh,Anantapur,153,20174000
+152,Andhra Pradesh,Anantapur,153,20307000
+153,Maharashtra,Kolhapur,154,63463000
+153,Maharashtra,Kolhapur,154,62979000
+153,Maharashtra,Kolhapur,154,63256000
+154,Punjab,Khanna,155,13359000
+154,Punjab,Khanna,155,13243000
+154,Punjab,Khanna,155,13309000
+155,Arunachal Pradesh,Naharlagun,156,419000
+155,Arunachal Pradesh,Naharlagun,156,415000
+155,Arunachal Pradesh,Naharlagun,156,417000
+156,Rajasthan,Jalore,157,22468000
+156,Rajasthan,Jalore,157,22262000
+156,Rajasthan,Jalore,157,22380000
+157,Rajasthan,Dholpur,158,22468000
+157,Rajasthan,Dholpur,158,22262000
+157,Rajasthan,Dholpur,158,22380000
+158,Rajasthan,Bikaner,159,22468000
+158,Rajasthan,Bikaner,159,22262000
+158,Rajasthan,Bikaner,159,22380000
+159,Tamil Nadu,Madurai,160,42472000
+159,Tamil Nadu,Madurai,160,42196000
+159,Tamil Nadu,Madurai,160,42354000
+160,Madhya Pradesh,Indore,161,26126000
+160,Madhya Pradesh,Indore,161,25894000
+160,Madhya Pradesh,Indore,161,26027000
+161,Uttar Pradesh,Muzaffarnagar,162,59007000
+161,Uttar Pradesh,Muzaffarnagar,162,58465000
+161,Uttar Pradesh,Muzaffarnagar,162,58775000
+162,Tamil Nadu,Kanchipuram,163,42472000
+162,Tamil Nadu,Kanchipuram,163,42196000
+162,Tamil Nadu,Kanchipuram,163,42354000
+163,Madhya Pradesh,Sagar,164,26126000
+163,Madhya Pradesh,Sagar,164,25894000
+163,Madhya Pradesh,Sagar,164,26027000
+164,Maharashtra,Virar,165,63463000
+164,Maharashtra,Virar,165,62979000
+164,Maharashtra,Virar,165,63256000
+165,Bihar,Hajipur,166,16415000
+165,Bihar,Hajipur,166,16221000
+165,Bihar,Hajipur,166,16332000
+166,Rajasthan,Jaipur,167,22468000
+166,Rajasthan,Jaipur,167,22262000
+166,Rajasthan,Jaipur,167,22380000
+167,Assam,Nagaon,168,5807000
+167,Assam,Nagaon,168,5750000
+167,Assam,Nagaon,168,5783000
+168,Uttarakhand,Kashipur,169,4431000
+168,Uttarakhand,Kashipur,169,4373000
+168,Uttarakhand,Kashipur,169,4406000
+169,Andhra Pradesh,Amaravati,170,20407000
+169,Andhra Pradesh,Amaravati,170,20174000
+169,Andhra Pradesh,Amaravati,170,20307000
+170,Tamil Nadu,Pudukottai,171,42472000
+170,Tamil Nadu,Pudukottai,171,42196000
+170,Tamil Nadu,Pudukottai,171,42354000
+171,Bihar,Munger,172,16415000
+171,Bihar,Munger,172,16221000
+171,Bihar,Munger,172,16332000
+172,Rajasthan,Karauli,173,22468000
+172,Rajasthan,Karauli,173,22262000
+172,Rajasthan,Karauli,173,22380000
+173,Bihar,Buxar,174,16415000
+173,Bihar,Buxar,174,16221000
+173,Bihar,Buxar,174,16332000
+174,Maharashtra,Chandrapur,175,63463000
+174,Maharashtra,Chandrapur,175,62979000
+174,Maharashtra,Chandrapur,175,63256000
+175,Maharashtra,Malegaon,176,63463000
+175,Maharashtra,Malegaon,176,62979000
+175,Maharashtra,Malegaon,176,63256000
+176,Tamil Nadu,Palkalaiperur,177,42472000
+176,Tamil Nadu,Palkalaiperur,177,42196000
+176,Tamil Nadu,Palkalaiperur,177,42354000
+177,Rajasthan,Sri Ganganagar,178,22468000
+177,Rajasthan,Sri Ganganagar,178,22262000
+177,Rajasthan,Sri Ganganagar,178,22380000
+178,Maharashtra,Navi Mumbai,179,63463000
+178,Maharashtra,Navi Mumbai,179,62979000
+178,Maharashtra,Navi Mumbai,179,63256000
+179,Madhya Pradesh,Bhopal,180,26126000
+179,Madhya Pradesh,Bhopal,180,25894000
+179,Madhya Pradesh,Bhopal,180,26027000
+180,Odisha,Rourkela,181,9077000
+180,Odisha,Rourkela,181,8994000
+180,Odisha,Rourkela,181,9042000
+181,Rajasthan,Jhalawar,182,22468000
+181,Rajasthan,Jhalawar,182,22262000
+181,Rajasthan,Jhalawar,182,22380000
+182,Madhya Pradesh,Gwalior,183,26126000
+182,Madhya Pradesh,Gwalior,183,25894000
+182,Madhya Pradesh,Gwalior,183,26027000
+183,Odisha,Suakati,184,9077000
+183,Odisha,Suakati,184,8994000
+183,Odisha,Suakati,184,9042000
+184,Tamil Nadu,Tirunelveli,185,42472000
+184,Tamil Nadu,Tirunelveli,185,42196000
+184,Tamil Nadu,Tirunelveli,185,42354000
+185,Maharashtra,Ahmednagar,186,63463000
+185,Maharashtra,Ahmednagar,186,62979000
+185,Maharashtra,Ahmednagar,186,63256000
+186,Uttar Pradesh,Moradabad,187,59007000
+186,Uttar Pradesh,Moradabad,187,58465000
+186,Uttar Pradesh,Moradabad,187,58775000
+187,Uttar Pradesh,Lucknow,188,59007000
+187,Uttar Pradesh,Lucknow,188,58465000
+187,Uttar Pradesh,Lucknow,188,58775000
+188,Rajasthan,Ajmer,189,22468000
+188,Rajasthan,Ajmer,189,22262000
+188,Rajasthan,Ajmer,189,22380000
+189,Bihar,Gaya,190,16415000
+189,Bihar,Gaya,190,16221000
+189,Bihar,Gaya,190,16332000
+190,Tamil Nadu,Gummidipoondi,191,42472000
+190,Tamil Nadu,Gummidipoondi,191,42196000
+190,Tamil Nadu,Gummidipoondi,191,42354000
+191,Maharashtra,Mahad,192,63463000
+191,Maharashtra,Mahad,192,62979000
+191,Maharashtra,Mahad,192,63256000
+192,Maharashtra,Jalgaon,193,63463000
+192,Maharashtra,Jalgaon,193,62979000
+192,Maharashtra,Jalgaon,193,63256000
+193,Chhattisgarh,Bhilai,194,8682000
+193,Chhattisgarh,Bhilai,194,8568000
+193,Chhattisgarh,Bhilai,194,8633000
+194,Kerala,Eloor,195,29122000
+194,Kerala,Eloor,195,28642000
+194,Kerala,Eloor,195,28916000
+195,Assam,Sivasagar,196,5807000
+195,Assam,Sivasagar,196,5750000
+195,Assam,Sivasagar,196,5783000
+196,Maharashtra,Pune,197,63463000
+196,Maharashtra,Pune,197,62979000
+196,Maharashtra,Pune,197,63256000
+197,Nagaland,Kohima,198,1132000
+197,Nagaland,Kohima,198,1107000
+197,Nagaland,Kohima,198,1121000
+198,Tamil Nadu,Ariyalur,199,42472000
+198,Tamil Nadu,Ariyalur,199,42196000
+198,Tamil Nadu,Ariyalur,199,42354000
+199,Karnataka,Shivamogga,200,31402000
+199,Karnataka,Shivamogga,200,31096000
+199,Karnataka,Shivamogga,200,31271000
+200,Madhya Pradesh,Dewas,201,26126000
+200,Madhya Pradesh,Dewas,201,25894000
+200,Madhya Pradesh,Dewas,201,26027000
+201,Bihar,Bhagalpur,202,16415000
+201,Bihar,Bhagalpur,202,16221000
+201,Bihar,Bhagalpur,202,16332000
+202,Tripura,Agartala,203,1787000
+202,Tripura,Agartala,203,1750000
+202,Tripura,Agartala,203,1771000
+203,Maharashtra,Nanded,204,63463000
+203,Maharashtra,Nanded,204,62979000
+203,Maharashtra,Nanded,204,63256000
+204,Uttar Pradesh,Varanasi,205,59007000
+204,Uttar Pradesh,Varanasi,205,58465000
+204,Uttar Pradesh,Varanasi,205,58775000
+205,Rajasthan,Banswara,206,22468000
+205,Rajasthan,Banswara,206,22262000
+205,Rajasthan,Banswara,206,22380000
+206,Haryana,Panchgaon,207,13582000
+206,Haryana,Panchgaon,207,13384000
+206,Haryana,Panchgaon,207,13497000
+207,Maharashtra,Nashik,208,63463000
+207,Maharashtra,Nashik,208,62979000
+207,Maharashtra,Nashik,208,63256000
+208,Maharashtra,Badlapur,209,63463000
+208,Maharashtra,Badlapur,209,62979000
+208,Maharashtra,Badlapur,209,63256000
+209,Odisha,Baripada,210,9077000
+209,Odisha,Baripada,210,8994000
+209,Odisha,Baripada,210,9042000
+210,Delhi,Delhi,211,22325000
+210,Delhi,Delhi,211,22087000
+210,Delhi,Delhi,211,22223000
+211,Odisha,Cuttack,212,9077000
+211,Odisha,Cuttack,212,8994000
+211,Odisha,Cuttack,212,9042000
+212,Maharashtra,Sangli,213,63463000
+212,Maharashtra,Sangli,213,62979000
+212,Maharashtra,Sangli,213,63256000
+213,Madhya Pradesh,Damoh,214,26126000
+213,Madhya Pradesh,Damoh,214,25894000
+213,Madhya Pradesh,Damoh,214,26027000
+214,Tamil Nadu,Ooty,215,42472000
+214,Tamil Nadu,Ooty,215,42196000
+214,Tamil Nadu,Ooty,215,42354000
+215,Karnataka,Ramanagara,216,31402000
+215,Karnataka,Ramanagara,216,31096000
+215,Karnataka,Ramanagara,216,31271000
+216,Karnataka,Koppal,217,31402000
+216,Karnataka,Koppal,217,31096000
+216,Karnataka,Koppal,217,31271000
+217,Bihar,Sasaram,218,16415000
+217,Bihar,Sasaram,218,16221000
+217,Bihar,Sasaram,218,16332000
+218,Gujarat,Ankleshwar,219,36863000
+218,Gujarat,Ankleshwar,219,36403000
+218,Gujarat,Ankleshwar,219,36666000
+219,Madhya Pradesh,Singrauli,220,26126000
+219,Madhya Pradesh,Singrauli,220,25894000
+219,Madhya Pradesh,Singrauli,220,26027000
+220,West Bengal,Durgapur,221,37995000
+220,West Bengal,Durgapur,221,37642000
+220,West Bengal,Durgapur,221,37844000
+221,Bihar,Patna,222,16415000
+221,Bihar,Patna,222,16221000
+221,Bihar,Patna,222,16332000
+222,Odisha,Brajrajnagar,223,9077000
+222,Odisha,Brajrajnagar,223,8994000
+222,Odisha,Brajrajnagar,223,9042000
+223,Kerala,Thiruvananthapuram,224,29122000
+223,Kerala,Thiruvananthapuram,224,28642000
+223,Kerala,Thiruvananthapuram,224,28916000
+224,Odisha,Barbil,225,9077000
+224,Odisha,Barbil,225,8994000
+224,Odisha,Barbil,225,9042000
+225,Rajasthan,Alwar,226,22468000
+225,Rajasthan,Alwar,226,22262000
+225,Rajasthan,Alwar,226,22380000
+226,Gujarat,Vapi,227,36863000
+226,Gujarat,Vapi,227,36403000
+226,Gujarat,Vapi,227,36666000
+228,Bihar,Rajgir,228,16415000
+228,Bihar,Rajgir,228,16221000
+228,Bihar,Rajgir,228,16332000
+308,Madhya Pradesh,Mandideep,229,26126000
+308,Madhya Pradesh,Mandideep,229,25894000
+308,Madhya Pradesh,Mandideep,229,26027000
+345,Odisha,Rairangpur,230,9077000
+345,Odisha,Rairangpur,230,8994000
+345,Odisha,Rairangpur,230,9042000
+346,Tamil Nadu,Tiruchirappalli,231,42472000
+346,Tamil Nadu,Tiruchirappalli,231,42196000
+346,Tamil Nadu,Tiruchirappalli,231,42354000
+351,Andaman and Nicobar Islands,Sri Vijaya Puram,232,185000
+351,Andaman and Nicobar Islands,Sri Vijaya Puram,232,183000
+351,Andaman and Nicobar Islands,Sri Vijaya Puram,232,184000
+354,Karnataka,Bidar,233,31402000
+354,Karnataka,Bidar,233,31096000
+354,Karnataka,Bidar,233,31271000
+381,Odisha,Tensa,234,9077000
+381,Odisha,Tensa,234,8994000
+381,Odisha,Tensa,234,9042000
+422,Karnataka,Mysuru,235,31402000
+422,Karnataka,Mysuru,235,31096000
+422,Karnataka,Mysuru,235,31271000
+428,Chhattisgarh,Bilaspur,236,8682000
+428,Chhattisgarh,Bilaspur,236,8568000
+428,Chhattisgarh,Bilaspur,236,8633000
+438,Karnataka,Haveri,237,31402000
+438,Karnataka,Haveri,237,31096000
+438,Karnataka,Haveri,237,31271000
+503,Bihar,Chhapra,238,16415000
+503,Bihar,Chhapra,238,16221000
+503,Bihar,Chhapra,238,16332000
+573,Kerala,Kannur,239,29122000
+573,Kerala,Kannur,239,28642000
+573,Kerala,Kannur,239,28916000
+741,Chhattisgarh,Chhal,240,8682000
+741,Chhattisgarh,Chhal,240,8568000
+741,Chhattisgarh,Chhal,240,8633000
+751,Rajasthan,Hanumangarh,241,22468000
+751,Rajasthan,Hanumangarh,241,22262000
+751,Rajasthan,Hanumangarh,241,22380000
+844,Punjab,Mandi Gobindgarh,242,13359000
+844,Punjab,Mandi Gobindgarh,242,13243000
+844,Punjab,Mandi Gobindgarh,242,13309000
+895,Chhattisgarh,Milupara,243,8682000
+895,Chhattisgarh,Milupara,243,8568000
+895,Chhattisgarh,Milupara,243,8633000
+1051,Karnataka,Gadag,244,31402000
+1051,Karnataka,Gadag,244,31096000
+1051,Karnataka,Gadag,244,31271000
+1125,Tamil Nadu,Virudhunagar,245,42472000
+1125,Tamil Nadu,Virudhunagar,245,42196000
+1125,Tamil Nadu,Virudhunagar,245,42354000
+1224,Odisha,Bileipada,246,9077000
+1224,Odisha,Bileipada,246,8994000
+1224,Odisha,Bileipada,246,9042000
+1287,Madhya Pradesh,Maihar,247,26126000
+1287,Madhya Pradesh,Maihar,247,25894000
+1287,Madhya Pradesh,Maihar,247,26027000
+1448,Karnataka,Mangalore,248,31402000
+1448,Karnataka,Mangalore,248,31096000
+1448,Karnataka,Mangalore,248,31271000
+1460,Punjab,Amritsar,249,13359000
+1460,Punjab,Amritsar,249,13243000
+1460,Punjab,Amritsar,249,13309000
+1720,Madhya Pradesh,Satna,250,26126000
+1720,Madhya Pradesh,Satna,250,25894000
+1720,Madhya Pradesh,Satna,250,26027000
+2085,Punjab,Rupnagar,251,13359000
+2085,Punjab,Rupnagar,251,13243000
+2085,Punjab,Rupnagar,251,13309000
+2134,Tamil Nadu,Karur,252,42472000
+2134,Tamil Nadu,Karur,252,42196000
+2134,Tamil Nadu,Karur,252,42354000
+2463,Sikkim,Gangtok,253,384000
+2463,Sikkim,Gangtok,253,373000
+2463,Sikkim,Gangtok,253,379000
+2522,Karnataka,Tumakuru,254,31402000
+2522,Karnataka,Tumakuru,254,31096000
+2522,Karnataka,Tumakuru,254,31271000
+3177,Bihar,Bihar Sharif,255,16415000
+3177,Bihar,Bihar Sharif,255,16221000
+3177,Bihar,Bihar Sharif,255,16332000
+4215,Gujarat,Nandesari,256,36863000
+4215,Gujarat,Nandesari,256,36403000
+4215,Gujarat,Nandesari,256,36666000
+6310,Haryana,Faridabad,257,13582000
+6310,Haryana,Faridabad,257,13384000
+6310,Haryana,Faridabad,257,13497000
+6713,Haryana,Charkhi Dadri,258,13582000
+6713,Haryana,Charkhi Dadri,258,13384000
+6713,Haryana,Charkhi Dadri,258,13497000
+8336,Karnataka,Karwar,259,31402000
+8336,Karnataka,Karwar,259,31096000
+8336,Karnataka,Karwar,259,31271000
+8451,Karnataka,Hassan,260,31402000
+8451,Karnataka,Hassan,260,31096000
+8451,Karnataka,Hassan,260,31271000
+9313,Karnataka,Kolar,261,31402000
+9313,Karnataka,Kolar,261,31096000
+9313,Karnataka,Kolar,261,31271000
+11089,Karnataka,Udupi,262,31402000
+11089,Karnataka,Udupi,262,31096000
+11089,Karnataka,Udupi,262,31271000
+12253,Karnataka,Raichur,263,31402000
+12253,Karnataka,Raichur,263,31096000
+12253,Karnataka,Raichur,263,31271000
+13296,Karnataka,Vijayapura,264,31402000
+13296,Karnataka,Vijayapura,264,31096000
+13296,Karnataka,Vijayapura,264,31271000
+21057,Haryana,Panchkula,265,13582000
+21057,Haryana,Panchkula,265,13384000
+21057,Haryana,Panchkula,265,13497000
+21129,Haryana,Rohtak,266,13582000
+21129,Haryana,Rohtak,266,13384000
+21129,Haryana,Rohtak,266,13497000
+21896,Jharkhand,Jorapokhar,267,10848000
+21896,Jharkhand,Jorapokhar,267,10730000
+21896,Jharkhand,Jorapokhar,267,10797000
+30311,Haryana,Palwal,268,13582000
+30311,Haryana,Palwal,268,13384000
+30311,Haryana,Palwal,268,13497000
+30345,Haryana,Ballabgarh,269,13582000
+30345,Haryana,Ballabgarh,269,13384000
+30345,Haryana,Ballabgarh,269,13497000
+30352,Haryana,Yamunanagar,270,13582000
+30352,Haryana,Yamunanagar,270,13384000
+30352,Haryana,Yamunanagar,270,13497000
+30392,Haryana,Kaithal,271,13582000
+30392,Haryana,Kaithal,271,13384000
+30392,Haryana,Kaithal,271,13497000
+30423,Haryana,Ambala,272,13582000
+30423,Haryana,Ambala,272,13384000
+30423,Haryana,Ambala,272,13497000
+30458,Haryana,Sonipat,273,13582000
+30458,Haryana,Sonipat,273,13384000
+30458,Haryana,Sonipat,273,13497000
+30480,Haryana,Manesar,274,13582000
+30480,Haryana,Manesar,274,13384000
+30480,Haryana,Manesar,274,13497000
+30492,Haryana,Karnal,275,13582000
+30492,Haryana,Karnal,275,13384000
+30492,Haryana,Karnal,275,13497000
+30499,Haryana,Fatehabad,276,13582000
+30499,Haryana,Fatehabad,276,13384000
+30499,Haryana,Fatehabad,276,13497000
+30531,Haryana,Kurukshetra,277,13582000
+30531,Haryana,Kurukshetra,277,13384000
+30531,Haryana,Kurukshetra,277,13497000
+30563,Haryana,Mandikhera,278,13582000
+30563,Haryana,Mandikhera,278,13384000
+30563,Haryana,Mandikhera,278,13497000
+30619,Haryana,Sirsa,279,13582000
+30619,Haryana,Sirsa,279,13384000
+30619,Haryana,Sirsa,279,13497000
+30636,Haryana,Panipat,280,13582000
+30636,Haryana,Panipat,280,13384000
+30636,Haryana,Panipat,280,13497000
+30670,Haryana,Bhiwani,281,13582000
+30670,Haryana,Bhiwani,281,13384000
+30670,Haryana,Bhiwani,281,13497000
+30671,Haryana,Dharuhera,282,13582000
+30671,Haryana,Dharuhera,282,13384000
+30671,Haryana,Dharuhera,282,13497000
+30734,Haryana,Jind,283,13582000
+30734,Haryana,Jind,283,13384000
+30734,Haryana,Jind,283,13497000
+30735,Haryana,Bahadurgarh,284,13582000
+30735,Haryana,Bahadurgarh,284,13384000
+30735,Haryana,Bahadurgarh,284,13497000
+30738,Haryana,Hisar,285,13582000
+30738,Haryana,Hisar,285,13384000
+30738,Haryana,Hisar,285,13497000
+30813,Haryana,Narnaul,286,13582000
+30813,Haryana,Narnaul,286,13384000
+30813,Haryana,Narnaul,286,13497000
+59593,Jharkhand,Pathardih,287,10848000
+59593,Jharkhand,Pathardih,287,10730000
+59593,Jharkhand,Pathardih,287,10797000
+97488,Kerala,Kochi,288,29122000
+97488,Kerala,Kochi,288,28642000
+97488,Kerala,Kochi,288,28916000
+122315,Jammu and Kashmir,Srinagar,289,4324000
+122315,Jammu and Kashmir,Srinagar,289,4285000
+122315,Jammu and Kashmir,Srinagar,289,4307000
+178540,Kerala,Kozhikode,290,29122000
+178540,Kerala,Kozhikode,290,28642000
+178540,Kerala,Kozhikode,290,28916000
+189891,Bihar,Darbhanga,291,16415000
+189891,Bihar,Darbhanga,291,16221000
+189891,Bihar,Darbhanga,291,16332000
+199931,Kerala,Ernakulam,292,29122000
+199931,Kerala,Ernakulam,292,28642000
+199931,Kerala,Ernakulam,292,28916000

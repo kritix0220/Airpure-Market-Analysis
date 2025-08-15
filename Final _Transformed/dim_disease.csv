@@ -1,0 +1,128 @@
+disease_illness_name,Disease_ID
+Acute Diarrheal Disease,1
+Chickenpox,2
+Food Poisoning,3
+Fever with Rash,4
+Measles,5
+Hepatitis A,6
+Typhoid,7
+Malaria,8
+Shigellosis,9
+Acute Gastroenteritis,10
+Scrub Typhus,11
+Chikungunya,12
+Mumps,13
+Hepatitis A and E,14
+Hepatitis B and C,15
+Leishmaniasis,16
+Dengue,17
+Human Rabies,18
+West Nile Fever,19
+Cholera,20
+HMPV,21
+Mpox,22
+Others,23
+Fever,24
+Meningitis,25
+Jaundice,26
+Acute Hepatitis A,27
+Rabies,28
+Paratyphoid,29
+Acute Hepatitis E,31
+Pertussis,32
+Rubella,33
+Champaran,34
+Measles and Rubella,35
+Hepatitis,36
+Gastroenteritis,37
+Nile Fever,38
+Poisoning,39
+Nagar,40
+Hepatitis E,41
+Crimean Congo Haemandrhagic Fever (CCHF),42
+Japanese Encephalitis,43
+Diarrhoea,44
+Leptospirosis,45
+Acute Gastroenteritis (Norovirus),46
+Dengue and Chikungunya,47
+Dysentery,48
+Diphtheria,49
+Acute Hepatitis,50
+Forest Disease,51
+Enteric Fever,52
+Fever with rash,53
+Scrub typhus,54
+Zika Virus,55
+Nilgiris,56
+Bardhaman,57
+Food poisoning,58
+Japanese encephalitis,59
+Hand Foot and Mouth Disease,60
+Amoebic Encephalitis,61
+Acute encephalitic syndrome,62
+Paraganas,63
+Nipah Virus,64
+Acute Encephalitic Syndrome,65
+Fever of Unknown Origin,66
+Animal bite - Dog Bite,67
+Poliomyelitis (Vaccine-Derived Polio Virus),68
+Chandipura Virus,69
+Acute Encephalitic Syndrome (Chandipura Virus),70
+Primary Amoebic Meningo-encephalitis,71
+ARI Influenza Like Illness(ILI),72
+Only Fever less than 7 days,73
+Mushroom Poisoning,74
+Anthrax,75
+Food Poisoning (Mushroom Poisoning),76
+Influenza,77
+Jaundice of less than 4 weeks,78
+Fever of Unknown andigin (PUO),79
+Acute Hepatitis B,80
+Suspected Mumps,81
+Suspected Acute Hepatitis,82
+Leptospirosis and Scrub Typhus,83
+Kyasanur Fandest Disease,84
+Melioidosis,85
+Monkey Pox,86
+Fever with Altered sensandium,87
+Tetanus,88
+Dengue and Leptospirosis,89
+Brucellosis,90
+Fever of Unknown Cause,91
+Suspected Japanese Encephalitis,92
+Suspected Dengue Fever,93
+Suspected Typhoid,94
+Acute Gastritis,95
+Animal bite - Snake Bite,96
+Cutaneous Leishmaniasis (Kala Azar),97
+Suspected Mushroom Poisoning,98
+Kala Azar,99
+Typhoid Fever,100
+Suspected Human Rabies,101
+Acute diarrheal disease (Klebsiella),102
+Suspected Anthrax,103
+Dysentery (Shigella),104
+Adenovirus,105
+Acute Flaccid Paralysis,106
+Food Poisoning (Shigella Sonnie),107
+Pyrexia of Unknown andigin (PUO),108
+Cutaneous Leishmaniasis,109
+Chickenpox and Measles,110
+H3N2,111
+Food Poisoning (NandoVirus),112
+Jatropha Seeds Poisoning,113
+Fever and Upper Respiratandy Tract Infection (URTI),114
+Allergic Conjunctivitis,115
+Fever with Rash (Enterovirus),116
+Chemical Gas Poisoning,117
+Seasonal Influenza,118
+Acute Meningoencephalitis (Naegleria fowleri),119
+Swine Flu (H1N1),120
+Malaria and Dengue,121
+Dengue and Scrub Typhus,122
+Visceral Leishmaniasis,123
+Acute Respiratandy Illness,124
+Nandovirus,125
+Filariasis,126
+Influenza A,127
+Malaria (Plasmodium Vivax),128
